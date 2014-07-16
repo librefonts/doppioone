@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=5 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=5 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=6 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out=".notdef"/>
+          <Substitution in="Aacute" out=".notdef"/>
+          <Substitution in="Abreve" out=".notdef"/>
+          <Substitution in="Acircumflex" out=".notdef"/>
+          <Substitution in="Adieresis" out=".notdef"/>
+          <Substitution in="Agrave" out=".notdef"/>
+          <Substitution in="Amacron" out=".notdef"/>
+          <Substitution in="Aogonek" out=".notdef"/>
+          <Substitution in="Aring" out=".notdef"/>
+          <Substitution in="Atilde" out=".notdef"/>
+          <Substitution in="B" out=".notdef"/>
+          <Substitution in="C" out=".notdef"/>
+          <Substitution in="Cacute" out=".notdef"/>
+          <Substitution in="Ccaron" out=".notdef"/>
+          <Substitution in="Ccedilla" out=".notdef"/>
+          <Substitution in="Ccircumflex" out=".notdef"/>
+          <Substitution in="Cdotaccent" out=".notdef"/>
+          <Substitution in="D" out=".notdef"/>
+          <Substitution in="Dcaron" out=".notdef"/>
+          <Substitution in="Dcroat" out=".notdef"/>
+          <Substitution in="E" out=".notdef"/>
+          <Substitution in="Eacute" out=".notdef"/>
+          <Substitution in="Ebreve" out=".notdef"/>
+          <Substitution in="Ecaron" out=".notdef"/>
+          <Substitution in="Ecircumflex" out=".notdef"/>
+          <Substitution in="Edieresis" out=".notdef"/>
+          <Substitution in="Edotaccent" out=".notdef"/>
+          <Substitution in="Egrave" out=".notdef"/>
+          <Substitution in="Emacron" out=".notdef"/>
+          <Substitution in="Eogonek" out=".notdef"/>
+          <Substitution in="F" out=".notdef"/>
+          <Substitution in="G" out=".notdef"/>
+          <Substitution in="Gbreve" out=".notdef"/>
+          <Substitution in="Gcircumflex" out=".notdef"/>
+          <Substitution in="Gcommaaccent" out=".notdef"/>
+          <Substitution in="Gdotaccent" out=".notdef"/>
+          <Substitution in="H" out=".notdef"/>
+          <Substitution in="Hbar" out=".notdef"/>
+          <Substitution in="Hcircumflex" out=".notdef"/>
+          <Substitution in="I" out=".notdef"/>
+          <Substitution in="Iacute" out=".notdef"/>
+          <Substitution in="Ibreve" out=".notdef"/>
+          <Substitution in="Icircumflex" out=".notdef"/>
+          <Substitution in="Idieresis" out=".notdef"/>
+          <Substitution in="Igrave" out=".notdef"/>
+          <Substitution in="Imacron" out=".notdef"/>
+          <Substitution in="Iogonek" out=".notdef"/>
+          <Substitution in="Itilde" out=".notdef"/>
+          <Substitution in="J" out=".notdef"/>
+          <Substitution in="Jcircumflex" out=".notdef"/>
+          <Substitution in="K" out=".notdef"/>
+          <Substitution in="Kcommaaccent" out=".notdef"/>
+          <Substitution in="L" out=".notdef"/>
+          <Substitution in="Lacute" out=".notdef"/>
+          <Substitution in="Lcaron" out=".notdef"/>
+          <Substitution in="Lcommaaccent" out=".notdef"/>
+          <Substitution in="Ldot" out=".notdef"/>
+          <Substitution in="Lslash" out=".notdef"/>
+          <Substitution in="M" out=".notdef"/>
+          <Substitution in="N" out=".notdef"/>
+          <Substitution in="Nacute" out=".notdef"/>
+          <Substitution in="Ncaron" out=".notdef"/>
+          <Substitution in="Ncommaaccent" out=".notdef"/>
+          <Substitution in="Ntilde" out=".notdef"/>
+          <Substitution in="O" out=".notdef"/>
+          <Substitution in="Oacute" out=".notdef"/>
+          <Substitution in="Obreve" out=".notdef"/>
+          <Substitution in="Ocircumflex" out=".notdef"/>
+          <Substitution in="Odieresis" out=".notdef"/>
+          <Substitution in="Ograve" out=".notdef"/>
+          <Substitution in="Ohungarumlaut" out=".notdef"/>
+          <Substitution in="Omacron" out=".notdef"/>
+          <Substitution in="Otilde" out=".notdef"/>
+          <Substitution in="P" out=".notdef"/>
+          <Substitution in="Q" out=".notdef"/>
+          <Substitution in="R" out=".notdef"/>
+          <Substitution in="Racute" out=".notdef"/>
+          <Substitution in="Rcaron" out=".notdef"/>
+          <Substitution in="Rcommaaccent" out=".notdef"/>
+          <Substitution in="S" out=".notdef"/>
+          <Substitution in="Sacute" out=".notdef"/>
+          <Substitution in="Scaron" out=".notdef"/>
+          <Substitution in="Scedilla" out=".notdef"/>
+          <Substitution in="Scircumflex" out=".notdef"/>
+          <Substitution in="Scommaaccent" out=".notdef"/>
+          <Substitution in="T" out=".notdef"/>
+          <Substitution in="Tbar" out=".notdef"/>
+          <Substitution in="Tcaron" out=".notdef"/>
+          <Substitution in="Tcommaaccent" out=".notdef"/>
+          <Substitution in="U" out=".notdef"/>
+          <Substitution in="Uacute" out=".notdef"/>
+          <Substitution in="Ubreve" out=".notdef"/>
+          <Substitution in="Ucircumflex" out=".notdef"/>
+          <Substitution in="Udieresis" out=".notdef"/>
+          <Substitution in="Ugrave" out=".notdef"/>
+          <Substitution in="Uhungarumlaut" out=".notdef"/>
+          <Substitution in="Umacron" out=".notdef"/>
+          <Substitution in="Uogonek" out=".notdef"/>
+          <Substitution in="Uring" out=".notdef"/>
+          <Substitution in="Utilde" out=".notdef"/>
+          <Substitution in="V" out=".notdef"/>
+          <Substitution in="W" out=".notdef"/>
+          <Substitution in="Wacute" out=".notdef"/>
+          <Substitution in="Wcircumflex" out=".notdef"/>
+          <Substitution in="Wdieresis" out=".notdef"/>
+          <Substitution in="Wgrave" out=".notdef"/>
+          <Substitution in="X" out=".notdef"/>
+          <Substitution in="Y" out=".notdef"/>
+          <Substitution in="Yacute" out=".notdef"/>
+          <Substitution in="Ycircumflex" out=".notdef"/>
+          <Substitution in="Ydieresis" out=".notdef"/>
+          <Substitution in="Ygrave" out=".notdef"/>
+          <Substitution in="Z" out=".notdef"/>
+          <Substitution in="Zacute" out=".notdef"/>
+          <Substitution in="Zcaron" out=".notdef"/>
+          <Substitution in="Zdotaccent" out=".notdef"/>
+          <Substitution in="a" out=".notdef"/>
+          <Substitution in="aacute" out=".notdef"/>
+          <Substitution in="abreve" out=".notdef"/>
+          <Substitution in="acircumflex" out=".notdef"/>
+          <Substitution in="adieresis" out=".notdef"/>
+          <Substitution in="agrave" out=".notdef"/>
+          <Substitution in="amacron" out=".notdef"/>
+          <Substitution in="aogonek" out=".notdef"/>
+          <Substitution in="aring" out=".notdef"/>
+          <Substitution in="atilde" out=".notdef"/>
+          <Substitution in="b" out=".notdef"/>
+          <Substitution in="c" out=".notdef"/>
+          <Substitution in="cacute" out=".notdef"/>
+          <Substitution in="ccaron" out=".notdef"/>
+          <Substitution in="ccedilla" out=".notdef"/>
+          <Substitution in="ccircumflex" out=".notdef"/>
+          <Substitution in="cdotaccent" out=".notdef"/>
+          <Substitution in="d" out=".notdef"/>
+          <Substitution in="dcaron" out=".notdef"/>
+          <Substitution in="dcroat" out=".notdef"/>
+          <Substitution in="e" out=".notdef"/>
+          <Substitution in="eacute" out=".notdef"/>
+          <Substitution in="ebreve" out=".notdef"/>
+          <Substitution in="ecaron" out=".notdef"/>
+          <Substitution in="ecircumflex" out=".notdef"/>
+          <Substitution in="edieresis" out=".notdef"/>
+          <Substitution in="edotaccent" out=".notdef"/>
+          <Substitution in="egrave" out=".notdef"/>
+          <Substitution in="emacron" out=".notdef"/>
+          <Substitution in="eogonek" out=".notdef"/>
+          <Substitution in="f" out=".notdef"/>
+          <Substitution in="g" out=".notdef"/>
+          <Substitution in="gbreve" out=".notdef"/>
+          <Substitution in="gcircumflex" out=".notdef"/>
+          <Substitution in="gcommaaccent" out=".notdef"/>
+          <Substitution in="gdotaccent" out=".notdef"/>
+          <Substitution in="h" out=".notdef"/>
+          <Substitution in="hbar" out=".notdef"/>
+          <Substitution in="hcircumflex" out=".notdef"/>
+          <Substitution in="i" out=".notdef"/>
+          <Substitution in="iacute" out=".notdef"/>
+          <Substitution in="ibreve" out=".notdef"/>
+          <Substitution in="icircumflex" out=".notdef"/>
+          <Substitution in="idieresis" out=".notdef"/>
+          <Substitution in="igrave" out=".notdef"/>
+          <Substitution in="imacron" out=".notdef"/>
+          <Substitution in="iogonek" out=".notdef"/>
+          <Substitution in="itilde" out=".notdef"/>
+          <Substitution in="j" out=".notdef"/>
+          <Substitution in="jcircumflex" out=".notdef"/>
+          <Substitution in="k" out=".notdef"/>
+          <Substitution in="kcommaaccent" out=".notdef"/>
+          <Substitution in="l" out=".notdef"/>
+          <Substitution in="lacute" out=".notdef"/>
+          <Substitution in="lcaron" out=".notdef"/>
+          <Substitution in="lcommaaccent" out=".notdef"/>
+          <Substitution in="ldot" out=".notdef"/>
+          <Substitution in="lslash" out=".notdef"/>
+          <Substitution in="m" out=".notdef"/>
+          <Substitution in="n" out=".notdef"/>
+          <Substitution in="nacute" out=".notdef"/>
+          <Substitution in="ncaron" out=".notdef"/>
+          <Substitution in="ncommaaccent" out=".notdef"/>
+          <Substitution in="ntilde" out=".notdef"/>
+          <Substitution in="o" out=".notdef"/>
+          <Substitution in="oacute" out=".notdef"/>
+          <Substitution in="obreve" out=".notdef"/>
+          <Substitution in="ocircumflex" out=".notdef"/>
+          <Substitution in="odieresis" out=".notdef"/>
+          <Substitution in="ograve" out=".notdef"/>
+          <Substitution in="ohungarumlaut" out=".notdef"/>
+          <Substitution in="omacron" out=".notdef"/>
+          <Substitution in="otilde" out=".notdef"/>
+          <Substitution in="p" out=".notdef"/>
+          <Substitution in="q" out=".notdef"/>
+          <Substitution in="r" out=".notdef"/>
+          <Substitution in="racute" out=".notdef"/>
+          <Substitution in="rcaron" out=".notdef"/>
+          <Substitution in="rcommaaccent" out=".notdef"/>
+          <Substitution in="s" out=".notdef"/>
+          <Substitution in="sacute" out=".notdef"/>
+          <Substitution in="scaron" out=".notdef"/>
+          <Substitution in="scedilla" out=".notdef"/>
+          <Substitution in="scircumflex" out=".notdef"/>
+          <Substitution in="scommaaccent" out=".notdef"/>
+          <Substitution in="t" out=".notdef"/>
+          <Substitution in="tbar" out=".notdef"/>
+          <Substitution in="tcaron" out=".notdef"/>
+          <Substitution in="tcommaaccent" out=".notdef"/>
+          <Substitution in="u" out=".notdef"/>
+          <Substitution in="uacute" out=".notdef"/>
+          <Substitution in="ubreve" out=".notdef"/>
+          <Substitution in="ucircumflex" out=".notdef"/>
+          <Substitution in="udieresis" out=".notdef"/>
+          <Substitution in="ugrave" out=".notdef"/>
+          <Substitution in="uhungarumlaut" out=".notdef"/>
+          <Substitution in="umacron" out=".notdef"/>
+          <Substitution in="uogonek" out=".notdef"/>
+          <Substitution in="uring" out=".notdef"/>
+          <Substitution in="utilde" out=".notdef"/>
+          <Substitution in="v" out=".notdef"/>
+          <Substitution in="w" out=".notdef"/>
+          <Substitution in="wacute" out=".notdef"/>
+          <Substitution in="wcircumflex" out=".notdef"/>
+          <Substitution in="wdieresis" out=".notdef"/>
+          <Substitution in="wgrave" out=".notdef"/>
+          <Substitution in="x" out=".notdef"/>
+          <Substitution in="y" out=".notdef"/>
+          <Substitution in="yacute" out=".notdef"/>
+          <Substitution in="ycircumflex" out=".notdef"/>
+          <Substitution in="ydieresis" out=".notdef"/>
+          <Substitution in="ygrave" out=".notdef"/>
+          <Substitution in="z" out=".notdef"/>
+          <Substitution in="zacute" out=".notdef"/>
+          <Substitution in="zcaron" out=".notdef"/>
+          <Substitution in="zdotaccent" out=".notdef"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="I">
+            <Ligature components="J" glyph="IJ"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="w,i,p,l,o,g,o" glyph=".notdef"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="f,i" glyph=".notdef"/>
+            <Ligature components="f,l" glyph=".notdef"/>
+            <Ligature components="i" glyph="fi"/>
+            <Ligature components="f" glyph="ff"/>
+            <Ligature components="l" glyph="fl"/>
+            <Ligature components="t" glyph=".notdef"/>
+          </LigatureSet>
+          <LigatureSet glyph="i">
+            <Ligature components="j" glyph="ij"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="e"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="w"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=2 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="i"/>
+          </LookAheadCoverage>
+          <LookAheadCoverage index="1" Format="1">
+            <Glyph value="p"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="5"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="eight" out=".notdef"/>
+          <Substitution in="five" out=".notdef"/>
+          <Substitution in="four" out=".notdef"/>
+          <Substitution in="n" out=".notdef"/>
+          <Substitution in="nine" out=".notdef"/>
+          <Substitution in="o" out="ordmasculine"/>
+          <Substitution in="one" out="onesuperior"/>
+          <Substitution in="seven" out=".notdef"/>
+          <Substitution in="six" out=".notdef"/>
+          <Substitution in="three" out="threesuperior"/>
+          <Substitution in="two" out="twosuperior"/>
+          <Substitution in="zero" out=".notdef"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="eight" out=".notdef"/>
+          <Substitution in="five" out=".notdef"/>
+          <Substitution in="four" out=".notdef"/>
+          <Substitution in="nine" out=".notdef"/>
+          <Substitution in="one" out=".notdef"/>
+          <Substitution in="seven" out=".notdef"/>
+          <Substitution in="six" out=".notdef"/>
+          <Substitution in="three" out=".notdef"/>
+          <Substitution in="two" out=".notdef"/>
+          <Substitution in="zero" out=".notdef"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="w" out=".notdef"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
