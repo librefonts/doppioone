@@ -1,0 +1,41 @@
+{
+  "name": "Doppio One",
+  "designer": "Szymon Celej",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 31619,
+  "fonts": [
+    {
+      "name": "Doppio One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DoppioOne-Regular.ttf",
+      "postScriptName": "DoppioOne-Regular",
+      "fullName": "Doppio One Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com), with Reserved Font Name \"Doppio\""
+    },
+    {
+      "name": "Doppio One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DoppioOne-Regular-TTF.ttf",
+      "postScriptName": "DoppioOne-Regular",
+      "fullName": "Doppio One Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Doppio\""
+    },
+    {
+      "name": "Doppio One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DoppioOne-Regular-OTF.ttf",
+      "postScriptName": "DoppioOne-Regular",
+      "fullName": "DoppioOne-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com), with Reserved Font Name Doppio"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-02-22"
+}
